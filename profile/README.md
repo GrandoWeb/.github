@@ -8,7 +8,7 @@
 
 ## Our team
 <details><summary>L. Legrand - Founder & Lead Developer</summary><i>Fondateur et développeur principal</i></details>
-<details><summary>D. Legrand - Founder & Lead Developer</summary><i>Co-Fondateur & Responsable Service Clientèle</i></details>
+<details><summary>D. Legrand - Co-Founder & Custommer service manage</summary><i>Co-Fondateur & Responsable Service Clientèle</i></details>
    
 ## Development Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,php,py" />
