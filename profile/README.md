@@ -1,4 +1,4 @@
-![GrandoWeb](https://i.postimg.cc/50NYmP5X/Untitled-2.png)
+![GrandoWeb](https://i.postimg.cc/SsgL7KKC/Grando-Web.png)
 
 ## About Us
 <details> 
