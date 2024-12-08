@@ -8,7 +8,7 @@ Fr: <i>Basés au Canada, nous sommes votre équipe incontournable pour créer et
 
 ## Our team
 <details><summary>L. Grando - Founder & Lead Developer</summary>Fr: <i>Fondateur et développeur principal</i></details>
-<details><summary>D. Grando - Co-Founder & Custommer service manage</summary>Fr: <i>Co-Fondateur & Responsable Service Clientèle</i></details>
+<details><summary>D. Grando - Co-Founder & Custommer service manager</summary>Fr: <i>Co-Fondateur & Responsable Service Clientèle</i></details>
    
 ## Development Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,php,py" />
