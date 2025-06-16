@@ -1,4 +1,4 @@
-![GrandoWeb](https://i.postimg.cc/SsgL7KKC/Grando-Web.png)
+![GrandoWeb](https://raw.githubusercontent.com/GrandoWeb/.github/refs/heads/main/profile/front.png)
 
 ## 🚀 About Us
 
