@@ -1,5 +1,3 @@
-![GrandoWeb Banner](https://raw.githubusercontent.com/GrandoWeb/.github/refs/heads/main/profile/front.png)
-
 <div align="left">
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://www.grandoweb.ca)
